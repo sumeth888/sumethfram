@@ -1,0 +1,4 @@
+สร้าง requirements.txt แล้ว:
+streamlit
+pandas
+request
